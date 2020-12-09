@@ -48,7 +48,7 @@ body {
   1px 1px 120px rgba(255,255,255,0.5);
 }
 .emboss-txt::after {
-  content: "HELLO.";
+  content: "Concept:";
   font-size: 180px;
   letter-spacing: 5px;
   font-family: Orbitron;
